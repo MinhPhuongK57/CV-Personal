@@ -6,3 +6,4 @@
 *.ts linguist-detectable=false
 *.cs linguist-detectable=false
 *.css linguist-detectable=false
+*.php linguist-detectable=false
